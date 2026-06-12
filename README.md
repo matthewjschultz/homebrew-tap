@@ -10,6 +10,12 @@ brew install claude-status
 brew install miditransporter
 ```
 
+> **Homebrew 6+ tap trust:** if you have `HOMEBREW_REQUIRE_TAP_TRUST` set, trust the tap once before installing:
+>
+> ```
+> brew trust --tap matthewjschultz/tap
+> ```
+
 ## Apps
 
 | Cask | Description |
