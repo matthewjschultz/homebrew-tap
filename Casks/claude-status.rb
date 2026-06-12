@@ -8,7 +8,7 @@ cask "claude-status" do
   homepage "https://claudestatus.app"
 
   auto_updates true
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "ClaudeStatus.app"
 

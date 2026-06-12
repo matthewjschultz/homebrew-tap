@@ -8,7 +8,7 @@ cask "claude-api-status" do
   homepage "https://github.com/matthewjschultz/homebrew-claude-api-status"
 
   auto_updates true
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "ClaudeAPIStatus.app"
 
