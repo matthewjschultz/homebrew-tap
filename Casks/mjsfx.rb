@@ -1,6 +1,6 @@
 cask "mjsfx" do
   version "1.6"
-  sha256 "979512f7bf226bb4e6c291311facfcad1ad6f2a40e478273fa2ea54eff8935cf"
+  sha256 "25122090e2e04a4f618620eaa33e9bbf1948fee0cab94f972034c6051186ee67"
 
   url "https://mjsfx.app/releases/MJSFX-#{version}.dmg"
   name "MJSFX"
