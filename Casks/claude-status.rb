@@ -1,6 +1,6 @@
 cask "claude-status" do
-  version "1.3"
-  sha256 "fc9c67afab215724b9e3b9d9e5ebbbd8868b6165c55eeb17c2bd8f97e9cefbb1"
+  version "1.5"
+  sha256 "0acad5014d5f15d4b9709d60a434d063dad5520d71167c9d8285fd9627d66b05"
 
   url "https://github.com/matthewjschultz/homebrew-tap/releases/download/claude-status-v#{version}/ClaudeStatus-#{version}.dmg"
   name "Claude Status"
