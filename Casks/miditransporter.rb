@@ -1,6 +1,6 @@
 cask "miditransporter" do
-  version "1.3"
-  sha256 "0203f3636276afbac4200fca5f5c44ce0aab5806ea64efda0c076d5c77e46895"
+  version "1.4"
+  sha256 "62ae104bf5a929875b52a7c1a94d18a7c2130d39ba08bb0626186f6110a1bca5"
 
   url "https://miditransporter.app/releases/MIDITransporter-#{version}.dmg"
   name "MIDI Transporter"
